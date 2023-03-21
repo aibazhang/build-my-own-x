@@ -308,3 +308,4 @@ cython_debug/
 
 
 /pygit/test_repo
+/cfs/.vagrant/
