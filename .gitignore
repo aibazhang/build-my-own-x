@@ -310,3 +310,4 @@ cython_debug/
 /pygit/test_repo
 /cfs/.vagrant/
 /db/db
+/db/*.db
